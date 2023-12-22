@@ -16,7 +16,8 @@
 <!-- [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/) -->
 </div>
 <br>
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={goodchuck})](https://solved.ac/{goodchuck})
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
 <!--     <a href="mailto:kwonbe99@gmail.com">
