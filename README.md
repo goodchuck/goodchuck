@@ -17,7 +17,7 @@
 </div>
 <br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={y502100})](https://solved.ac/{y502100})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=y502100)](https://solved.ac/y502100)
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
 <!--     <a href="mailto:kwonbe99@gmail.com">
