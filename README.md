@@ -8,6 +8,7 @@
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
         <a href="https://ripple-frigate-f8f.notion.site/ba82e385622647168377d6cf9816946b?pvs=4">노션 이력서
+        <br>
         <a href="https://ripple-frigate-f8f.notion.site/Skills-78f0b8ca2217494ba83b17e8333cdc55?pvs=4">기술관련 공부 노션정리
 </div>
 <br>
