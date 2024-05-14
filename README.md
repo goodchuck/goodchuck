@@ -1,11 +1,28 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>안녕하세요! 오신걸 환영합니다!</h1>
-<p>제페이지에 오신걸 환영합니다!</br> 제이름은 양태현이고 프론트엔드 개발자입니다!
-<h3><b>Next.js와 React</b>를 개발하고</h3>
-<h3>AI, Webcrolling, 자동화, 알고리즘에 관심이 많습니다!</h3>
-<br>
+<p>제페이지에 오신걸 환영합니다!</br> 제이름은 양태현이고 프론트엔드 개발자입니다!</p>
+
+## About Me
+Next.js와 React를 개발하고
+AI, Webcrolling, 자동화, 알고리즘에 관심이 많습니다!
+
 <p>주도적인 개발을 좋아함으로 특별한 지시나 사수가 없더라도 다양한 문제를 직접 해결하고싶어하고 그러한 경험을 통해 성장하는 것을 좋아합니다!</p>
 <p>한분야의 기술에만 의존하지 않으려고 노력하고있고 다양한 지식을을 배워 기술에 융합함으로써 무궁무진한 가치창출을 하고싶어합니다!</p>
-🔨 Once I've used 🔨
+
+## 💼 Experience
+- **(주)도로시** [2021-05 - 2023-12] - 프론트엔드 개발
+
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+        <a href="https://goodchuck.github.io/YangTi-PortFolio/">포트폴리오사이트</a>
+        <br>
+        <a href="https://yangtinomad.com/">티스토리
+        <br>
+        <a href="https://ripple-frigate-f8f.notion.site/Skills-78f0b8ca2217494ba83b17e8333cdc55?pvs=4">기술관련 공부 노션정리
+</div>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=y502100)](https://solved.ac/y502100)
+
+### 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
         <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -54,7 +71,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoodchuck%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=y502100)](https://solved.ac/y502100)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodchuck&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
@@ -62,15 +79,6 @@
 
 <br>
 
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-        <a href="https://goodchuck.github.io/YangTi-PortFolio/">포트폴리오사이트</a>
-        <br>
-        <a href="https://ripple-frigate-f8f.notion.site/ba82e385622647168377d6cf9816946b?pvs=4">노션 이력서
-        <br>
-        <a href="https://ripple-frigate-f8f.notion.site/Skills-78f0b8ca2217494ba83b17e8333cdc55?pvs=4">기술관련 공부 노션정리
-</div>
-<br>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
