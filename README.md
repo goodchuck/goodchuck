@@ -1,31 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20goodchuck's%20GitHub&fontSize=50)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodchuck&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="left">
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=y502100)](https://solved.ac/y502100)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>안녕하세요! 오신걸 환영합니다!</h1>
+<p>제페이지에 오신걸 환영합니다!</br> 제이름은 양태현이고 프론트엔드 개발자입니다!
+<h3><b>Next.js와 React</b>를 개발하고</h3>
+<h3>Webcrolling, 자동화 알고리즘에 관심이 많습니다!</h3>
 <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoodchuck%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-        <a href="https://goodchuck.github.io/YangTi-PortFolio/">포트폴리오사이트</a>
-        <a href="https://ripple-frigate-f8f.notion.site/ba82e385622647168377d6cf9816946b?pvs=4">노션 이력서
-        <br>
-        <a href="https://ripple-frigate-f8f.notion.site/Skills-78f0b8ca2217494ba83b17e8333cdc55?pvs=4">기술관련 공부 노션정리
-</div>
-<br>
-
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:goodchuck852@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
-    
-## 🔨 Once I've used 🔨
+🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
         <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -71,8 +49,36 @@
 <!--         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"> -->
 <!--         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">  -->
 </div>
-<div>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoodchuck%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=y502100)](https://solved.ac/y502100)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodchuck&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="left">
+
+
+<br>
+
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+        <a href="https://goodchuck.github.io/YangTi-PortFolio/">포트폴리오사이트</a>
+        <br>
+        <a href="https://ripple-frigate-f8f.notion.site/ba82e385622647168377d6cf9816946b?pvs=4">노션 이력서
+        <br>
+        <a href="https://ripple-frigate-f8f.notion.site/Skills-78f0b8ca2217494ba83b17e8333cdc55?pvs=4">기술관련 공부 노션정리
+</div>
+<br>
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:goodchuck852@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div>
+<br>
+    
+
 
 <!--
 **goodchuck/goodchuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
