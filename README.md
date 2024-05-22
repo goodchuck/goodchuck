@@ -11,6 +11,32 @@ AI, Webcrolling, 자동화, 알고리즘에 관심이 많습니다!
 ## 💼 Experience
 - **(주)도로시** [2021-05 - 2023-12] - 프론트엔드 개발
 
+## 성과 목록
+- 웹 / 앱 서비스의 프론트엔드 설계, 개발, 운영 경험
+
+- 스타트업 재직 경험으로 개발 뿐만이 아닌 기획, 소통, 업무프로세스 시행착오 등 경험 수행
+
+- 베트남에서 300명 규모의 인력이 사용하는 웹앱(Electron) 어플리케이션 주도 개발(90% 이상 기여) 경험
+
+- 3D 시각화 라이브러리 (Three.js, Potree.js) 사용 경험
+
+- 삼성에서 진행하는 글로벌 건설프로젝트인 사우디아라비아에서의 건설 고도화 프로젝트(웹사이트) 핵심 로직 (PTW분야) 개발
+
+- 한국 건설기술연구원과 AiVill의 연구원 등 연구원들의 요구사항에 맞는 프로그램 개발 경험
+
+- 대용량 데이터베이스(약 500만 row)를 이용한 차트 시각화(Chart.js, Googlechart) 경험
+
+- 더욱 나은 UI, UX 개발을 위해 프론트엔드 개발을 넘어선 자동화, 고도화, 알고리즘 등 다양한 지식을 공부(진행중)
+
+- 챗 GPT OpenAI 사용 경험 (채팅, 이미지, 어시스턴트) 및 프롬프트 엔지니어링 경험
+
+- 요구사항에 대한 구현과 성능을위한 알고리즘( 백준 사이트 ) 골드 1랭크 (상위 9%) 달성 인증은 아래 사이트입니다!
+https://ripple-frigate-f8f.notion.site/e43182b977fe432e87c06bf96746ce19
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=y502100)](https://solved.ac/y502100)
+
+## 문의 메일
+goodchuck852@gmail.com 으로 연락부탁드립니다!
+
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
         <a href="https://goodchuck.github.io/YangTi-PortFolio/">포트폴리오사이트</a>
@@ -20,7 +46,7 @@ AI, Webcrolling, 자동화, 알고리즘에 관심이 많습니다!
         <a href="https://ripple-frigate-f8f.notion.site/Skills-78f0b8ca2217494ba83b17e8333cdc55?pvs=4">기술관련 공부 노션정리
 </div>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=y502100)](https://solved.ac/y502100)
+
 
 ### 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
