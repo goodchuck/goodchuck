@@ -31,7 +31,9 @@ AI, Webcrolling, 자동화, 알고리즘에 관심이 많습니다!
 - 챗 GPT OpenAI 사용 경험 (채팅, 이미지, 어시스턴트) 및 프롬프트 엔지니어링 경험
 
 - 요구사항에 대한 구현과 성능을위한 알고리즘( 백준 사이트 ) 골드 1랭크 (상위 9%) 달성 인증은 아래 사이트입니다!
+
 https://ripple-frigate-f8f.notion.site/e43182b977fe432e87c06bf96746ce19
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=y502100)](https://solved.ac/y502100)
 
 ## 문의 메일
