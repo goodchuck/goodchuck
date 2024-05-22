@@ -39,6 +39,11 @@ https://ripple-frigate-f8f.notion.site/e43182b977fe432e87c06bf96746ce19
 ## 문의 메일
 goodchuck852@gmail.com 으로 연락부탁드립니다!
 
+## 개인 코드 컨벤션 정리
+https://yangtinomad.com/entry/%EA%B0%9C%EC%9D%B8-%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%A0%95%EB%A6%AC
+
+위 페이지를 참고해주세요!
+
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
         <a href="https://goodchuck.github.io/YangTi-PortFolio/">포트폴리오사이트</a>
