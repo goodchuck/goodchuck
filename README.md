@@ -40,7 +40,28 @@ https://ripple-frigate-f8f.notion.site/e43182b977fe432e87c06bf96746ce19
 goodchuck852@gmail.com 으로 연락부탁드립니다!
 
 ## 개인 코드 컨벤션 정리
+
 https://yangtinomad.com/category/%EA%B0%9C%EB%B0%9C/%EC%BD%94%EB%93%9C%EC%BB%A8%EB%B2%A4%EC%85%98
+
+▲▲ 코드 컨벤션 정리 티스토리 태그
+
+https://yangtinomad.com/entry/%EA%B0%9C%EC%9D%B8-%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%A0%95%EB%A6%AC
+
+▲▲ 개인 코드 컨벤션 정리
+
+https://yangtinomad.com/entry/%EA%B0%9C%EC%9D%B8-%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%A0%95%EB%A6%AC-CSS
+
+▲▲ CSS 코드 컨벤션 정리
+
+https://yangtinomad.com/entry/TSX%EC%97%90%EC%84%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98
+
+▲▲ TSX 코드 컨벤션 정리
+
+https://yangtinomad.com/entry/useState-useEffect-%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98
+
+▲▲ useState, useEffect 컨벤션 정리
+
+
 위 페이지를 참고해주세요!
 
 ## 💻 DEV's log 💻
