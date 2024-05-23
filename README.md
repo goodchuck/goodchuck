@@ -40,8 +40,7 @@ https://ripple-frigate-f8f.notion.site/e43182b977fe432e87c06bf96746ce19
 goodchuck852@gmail.com 으로 연락부탁드립니다!
 
 ## 개인 코드 컨벤션 정리
-https://yangtinomad.com/entry/%EA%B0%9C%EC%9D%B8-%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%A0%95%EB%A6%AC
-
+https://yangtinomad.com/category/%EA%B0%9C%EB%B0%9C/%EC%BD%94%EB%93%9C%EC%BB%A8%EB%B2%A4%EC%85%98
 위 페이지를 참고해주세요!
 
 ## 💻 DEV's log 💻
