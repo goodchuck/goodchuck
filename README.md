@@ -1,4 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>안녕하세요! 오신걸 환영합니다!</h1>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/goodchuck"/>
+</a>
 <p>제페이지에 오신걸 환영합니다!</br> 제이름은 양태현이고 프론트엔드 개발자입니다!</p>
 
 ## About Me
