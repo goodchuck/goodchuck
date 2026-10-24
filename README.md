@@ -15,34 +15,29 @@
 - 흩어진 데이터를 모아 보여 주는 서비스(버튜버 대시보드, 치지직 순위)와, 일상을 편하게 하는 작은 도구를 주로 만듭니다.
 - 지시나 사수가 없어도 문제를 직접 찾아 해결하는 걸 좋아하고, AI(Claude)와 함께 일하는 방식과 자동화에 관심이 많습니다.
 
-## 💼 Experience
-- **(주)블라스트** [2024-06 - 재직 중] - 풀스택 개발 (프론트엔드 · 백엔드)
-- **(주)도로시** [2021-05 - 2023-12] - 프론트엔드 개발
-
-### 주요 성과
-- 웹 / 앱 서비스의 프론트엔드 설계, 개발, 운영 경험
-
-- 스타트업 재직 경험으로 개발 뿐만이 아닌 기획, 소통, 업무프로세스 시행착오 등 경험 수행
-
-- 베트남에서 300명 규모의 인력이 사용하는 웹앱(Electron) 어플리케이션 주도 개발(90% 이상 기여) 경험
-
-- 3D 시각화 라이브러리 (Three.js, Potree.js) 사용 경험
-
-- 삼성에서 진행하는 글로벌 건설프로젝트인 사우디아라비아에서의 건설 고도화 프로젝트(웹사이트) 핵심 로직 (PTW분야) 개발
-
-- 한국 건설기술연구원과 AiVill의 연구원 등 연구원들의 요구사항에 맞는 프로그램 개발 경험
-
-- 대용량 데이터베이스(약 500만 row)를 이용한 차트 시각화(Chart.js, Googlechart) 경험
-
-- 더욱 나은 UI, UX 개발을 위해 프론트엔드 개발을 넘어선 자동화, 고도화, 알고리즘 등 다양한 지식을 공부(진행중)
-
-- 챗 GPT OpenAI 사용 경험 (채팅, 이미지, 어시스턴트) 및 프롬프트 엔지니어링 경험
-
-- 요구사항에 대한 구현과 성능을위한 알고리즘( 백준 사이트 ) 골드 1랭크 (상위 9%) 달성 인증은 아래 사이트입니다!
-
-https://ripple-frigate-f8f.notion.site/e43182b977fe432e87c06bf96746ce19
+## ⭐ 핵심 역량
+- 웹 / 앱 서비스의 프론트엔드 설계 · 개발 · 운영
+- FastAPI · NestJS · Django 백엔드 개발
+- AWS 인프라를 활용한 구축 · 배포 · 운영
+- 삼성전자 내부망 AI 챗봇 구축 개발
+- 핀테크 기업의 주식 커뮤니티 개발
+- 알고리즘 백준 골드 1 (상위 9%) — [인증](https://ripple-frigate-f8f.notion.site/e43182b977fe432e87c06bf96746ce19)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=y502100)](https://solved.ac/y502100)
+
+## 💼 Experience
+### (주)블라스트 · 풀스택 개발 (2024.06 – 재직 중)
+- **공카 내부 CRM · 웹페이지 유지보수** (2026.02 – 2026.06) — 내부 CRM 개발과 기존 웹페이지 유지보수. Claude Code 기반 개발 하네스를 사내에 직접 구축해 프론트엔드 · 백엔드를 개발
+- **삼성전자 내부망 AI 챗봇 프론트엔드** (2025.11 – 2026.05) — Claude 의 통신 구조를 파악해 내부망에 챗봇 시스템 구축
+- **두산로보틱스 LMS 프론트엔드 · 백엔드** (2025.02 – 2026.06) — [dr-rokey.com](https://dr-rokey.com) 모집 시스템과 내부 어드민 1인 개발 · 유지보수
+- **핀테크 (주)퀀팃 '핀터' 주식 커뮤니티 프론트엔드** (2024.06 – 2024.10) — 주식 상세 · 검색 등 페이지 개발 (외주), Next.js SEO · GraphQL
+
+### (주)도로시 · 프론트엔드 개발 (2021.05 – 2023.12)
+- 베트남 300명 규모 인력이 쓰는 웹앱(Electron) 주도 개발 (90% 이상 기여)
+- 삼성 글로벌 건설 프로젝트(사우디아라비아) 건설 고도화 웹사이트의 PTW 핵심 로직 개발
+- 한국건설기술연구원 · AiVill 연구원들의 요구사항에 맞춘 프로그램 개발
+- 3D 시각화(Three.js · Potree.js), 대용량 데이터(약 500만 row) 차트 시각화
+- 스타트업에서 개발과 함께 기획 · 소통 · 업무 프로세스 개선 경험
 
 ## 🛠 Side Projects
 개인 모노레포에서 혼자 만들고 운영하는 프로젝트들입니다.
@@ -81,7 +76,7 @@ https://ripple-frigate-f8f.notion.site/e43182b977fe432e87c06bf96746ce19
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
 **Backend**  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Desktop**  
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
