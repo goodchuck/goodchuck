@@ -75,15 +75,12 @@ https://ripple-frigate-f8f.notion.site/e43182b977fe432e87c06bf96746ce19
 goodchuck852@gmail.com 으로 연락부탁드립니다!
 
 ## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-        <a href="https://goodchuck.github.io/YangTi-PortFolio/">포트폴리오사이트</a>
-        <br>
-        <a href="https://yangtinomad.com/">티스토리
-        <br>
-        <a href="https://ripple-frigate-f8f.notion.site/Skills-78f0b8ca2217494ba83b17e8333cdc55?pvs=4">기술관련 공부 노션정리
-</div>
+- [블로그](https://www.yangtinomad.com) — 사이드 프로젝트를 만들며 부딪힌 문제와 풀어낸 방법
+- [포트폴리오 사이트](https://goodchuck.github.io/YangTi-PortFolio/)
+- [기술 공부 노션 정리](https://ripple-frigate-f8f.notion.site/Skills-78f0b8ca2217494ba83b17e8333cdc55?pvs=4)
 
-
+## 🚀 운영 중인 서비스
+- [버튜버 대시보드](https://vtuber.yangtinomad.com) — 치지직·유튜브·X 에 흩어진 버튜버 방송과 팔로워 흐름을 한곳에
 
 ### 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
