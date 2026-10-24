@@ -39,6 +39,37 @@ https://ripple-frigate-f8f.notion.site/e43182b977fe432e87c06bf96746ce19
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=y502100)](https://solved.ac/y502100)
 
+## 🛠 Side Projects
+개인 모노레포에서 혼자 만들고 운영하는 프로젝트들입니다.
+
+**서비스**
+- **버튜버 대시보드** — 치지직·유튜브·X 에 흩어진 버튜버 방송과 팔로워 흐름을 한곳에 (웹 · API · 관리 도구)
+- **SubCulture** — 게임 캐릭터 카탈로그와 게임별 공식 소식 · 운영 활성도 랭킹
+- **VoiceMap** — 게임 성우 디렉토리 (성우 ↔ 캐릭터 캐스팅)
+- **Rulebook** — 규칙 문서 저장 + GitHub 양방향 연동 (변경 요청 → PR)
+- **개인 블로그** — 마크다운으로 쓰고 정적으로 굽는 블로그
+
+**투자 · 데이터**
+- **퀀트 자동매매** — 주식 스크리너 + 자동매매 서버, 어드민 웹 · 데스크탑 앱
+- **Stocklog** — 한국 시장 수급 데이터 수집 · 분석
+- **Backtest** — 갭 · 딥바이 · 모멘텀 등 전략 백테스트 엔진과 화면
+- **Coin Signal** — 바이낸스 선물 청산 · 거래량 · 펀딩비 급변 실시간 감지
+
+**데스크탑 앱 (Electron)**
+- **artdesk** — 그림 연습 관리 (라이브러리 · 구도/포즈 연습 · 크로키 · 3D 인형)
+- **gendesk** — NovelAI 이미지 생성 도구
+- **Folderbeam** — PC 폴더를 같은 와이파이의 폰에서 갤러리로
+- **noveldesk** — 웹소설을 읽으며 메모 · 집필하는 옆 패널
+- **deskcanvas** — 모든 창 위에 이미지·영상을 띄우는 투명 캔버스
+- **portscope** — 이 PC 와 LAN 의 열린 포트 모니터
+
+**작은 도구**
+- **refmt** — 글 하나를 블로그 · LinkedIn 형식으로 변환 (Claude API)
+- **painmap** — 익명 불편 제보를 AI 가 분류해 마인드맵으로
+- **lol-watch** — 롤 전적 · LP 변화 디스코드 알림
+- **blackb-relay** — 텔레그램 채널 새 글을 디스코드로 전달
+- **chzzk 순위 알림** — 치지직 인기 방송 순위 변동 크롬 확장 + 서버
+
 ## 문의 메일
 goodchuck852@gmail.com 으로 연락부탁드립니다!
 
