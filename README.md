@@ -7,6 +7,8 @@
 ## 🚀 운영 중인 서비스
 - [버튜버 대시보드](https://vtuber.yangtinomad.com) — 치지직·유튜브·X 에 흩어진 버튜버 방송과 팔로워 흐름을 한곳에
 - [블로그](https://www.yangtinomad.com) — 사이드 프로젝트를 만들며 부딪힌 문제와 풀어낸 방법
+- **chzzk-watcher** — 치지직 인기 라이브 순위를 1시간마다 모아 시간대별로 시각화
+- **chzzk-web-extension** — 치지직 인기 방송 순위 변동을 실시간으로 알려 주는 크롬 확장
 
 ## About Me
 Next.js와 React를 개발하고
