@@ -44,6 +44,7 @@ https://ripple-frigate-f8f.notion.site/e43182b977fe432e87c06bf96746ce19
 
 **서비스**
 - **[버튜버 대시보드](https://vtuber.yangtinomad.com)** — 치지직·유튜브·X 에 흩어진 버튜버 방송과 팔로워 흐름을 한곳에 (웹 · API · 관리 도구)
+- **chzzk-watcher** — 치지직 인기 라이브 순위를 1시간마다 모아 시간대별로 시각화
 - **SubCulture** — 게임 캐릭터 카탈로그와 게임별 공식 소식 · 운영 활성도 랭킹
 - **VoiceMap** — 게임 성우 디렉토리 (성우 ↔ 캐릭터 캐스팅)
 - **Rulebook** — 규칙 문서 저장 + GitHub 양방향 연동 (변경 요청 → PR)
@@ -68,7 +69,7 @@ https://ripple-frigate-f8f.notion.site/e43182b977fe432e87c06bf96746ce19
 - **painmap** — 익명 불편 제보를 AI 가 분류해 마인드맵으로
 - **lol-watch** — 롤 전적 · LP 변화 디스코드 알림
 - **blackb-relay** — 텔레그램 채널 새 글을 디스코드로 전달
-- **chzzk 순위 알림** — 치지직 인기 방송 순위 변동 크롬 확장 + 서버
+- **chzzk-web-extension** — 치지직 인기 방송 순위 변동을 실시간으로 알려 주는 크롬 확장 (+ 알림 서버)
 
 ## 문의 메일
 goodchuck852@gmail.com 으로 연락부탁드립니다!
