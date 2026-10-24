@@ -2,7 +2,11 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/goodchuck"/>
 </a>
-<p>제페이지에 오신걸 환영합니다!</br> 제이름은 양태현이고 프론트엔드 개발자입니다!</p>
+<p>제 이름은 양태현이고 프론트엔드 개발자입니다!</p>
+
+## 🚀 운영 중인 서비스
+- [버튜버 대시보드](https://vtuber.yangtinomad.com) — 치지직·유튜브·X 에 흩어진 버튜버 방송과 팔로워 흐름을 한곳에
+- [블로그](https://www.yangtinomad.com) — 사이드 프로젝트를 만들며 부딪힌 문제와 풀어낸 방법
 
 ## About Me
 Next.js와 React를 개발하고
@@ -14,7 +18,7 @@ AI, Webcrolling, 자동화, 알고리즘에 관심이 많습니다!
 ## 💼 Experience
 - **(주)도로시** [2021-05 - 2023-12] - 프론트엔드 개발
 
-## 성과 목록
+### 주요 성과
 - 웹 / 앱 서비스의 프론트엔드 설계, 개발, 운영 경험
 
 - 스타트업 재직 경험으로 개발 뿐만이 아닌 기획, 소통, 업무프로세스 시행착오 등 경험 수행
@@ -71,18 +75,7 @@ https://ripple-frigate-f8f.notion.site/e43182b977fe432e87c06bf96746ce19
 - **blackb-relay** — 텔레그램 채널 새 글을 디스코드로 전달
 - **chzzk-web-extension** — 치지직 인기 방송 순위 변동을 실시간으로 알려 주는 크롬 확장 (+ 알림 서버)
 
-## 문의 메일
-goodchuck852@gmail.com 으로 연락부탁드립니다!
-
-## 💻 DEV's log 💻
-- [블로그](https://www.yangtinomad.com) — 사이드 프로젝트를 만들며 부딪힌 문제와 풀어낸 방법
-- [포트폴리오 사이트](https://goodchuck.github.io/YangTi-PortFolio/)
-- [기술 공부 노션 정리](https://ripple-frigate-f8f.notion.site/Skills-78f0b8ca2217494ba83b17e8333cdc55?pvs=4)
-
-## 🚀 운영 중인 서비스
-- [버튜버 대시보드](https://vtuber.yangtinomad.com) — 치지직·유튜브·X 에 흩어진 버튜버 방송과 팔로워 흐름을 한곳에
-
-### 🔨 Once I've used 🔨
+## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
         <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -128,27 +121,21 @@ goodchuck852@gmail.com 으로 연락부탁드립니다!
 <!--         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"> -->
 <!--         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">  -->
 </div>
+</div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoodchuck%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
-
+## 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodchuck&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="left">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoodchuck%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## 📞 Contact & Links
+goodchuck852@gmail.com 으로 연락부탁드립니다!
 
-<br>
+<a href="mailto:goodchuck852@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
-
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:goodchuck852@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div>
-<br>
-    
-
+- [블로그](https://www.yangtinomad.com)
+- [포트폴리오 사이트](https://goodchuck.github.io/YangTi-PortFolio/)
+- [기술 공부 노션 정리](https://ripple-frigate-f8f.notion.site/Skills-78f0b8ca2217494ba83b17e8333cdc55?pvs=4)
 
 <!--
 **goodchuck/goodchuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
