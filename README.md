@@ -2,7 +2,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/goodchuck"/>
 </a>
-<p>제 이름은 양태현이고 프론트엔드 개발자입니다!</p>
+<p>제 이름은 양태현입니다. 프론트엔드에서 시작해 백엔드, 데스크탑 앱, 배포까지 혼자 만들고 운영하고 있어요.</p>
 
 ## 🚀 운영 중인 서비스
 - [버튜버 대시보드](https://vtuber.yangtinomad.com) — 치지직·유튜브·X 에 흩어진 버튜버 방송과 팔로워 흐름을 한곳에
@@ -11,11 +11,9 @@
 - [chzzk-web-extension](https://chromewebstore.google.com/detail/chzzk-watcher/ipdmnoiimipnclfioflkkgcgmahabooe) — 치지직 인기 방송 순위 변동을 실시간으로 알려 주는 크롬 확장
 
 ## About Me
-Next.js와 React를 개발하고
-AI, Webcrolling, 자동화, 알고리즘에 관심이 많습니다!
-
-<p>주도적인 개발을 좋아함으로 특별한 지시나 사수가 없더라도 다양한 문제를 직접 해결하고싶어하고 그러한 경험을 통해 성장하는 것을 좋아합니다!</p>
-<p>한분야의 기술에만 의존하지 않으려고 노력하고있고 다양한 지식을을 배워 기술에 융합함으로써 무궁무진한 가치창출을 하고싶어합니다!</p>
+- 웹(Next.js), API(NestJS · FastAPI), 데스크탑 앱(Electron)을 하나의 모노레포에서 만들고, 태그 하나로 배포되게 자동화해 운영합니다.
+- 흩어진 데이터를 모아 보여 주는 서비스(버튜버 대시보드, 치지직 순위)와, 일상을 편하게 하는 작은 도구를 주로 만듭니다.
+- 지시나 사수가 없어도 문제를 직접 찾아 해결하는 걸 좋아하고, AI(Claude)와 함께 일하는 방식과 자동화에 관심이 많습니다.
 
 ## 💼 Experience
 - **(주)도로시** [2021-05 - 2023-12] - 프론트엔드 개발
@@ -77,53 +75,21 @@ https://ripple-frigate-f8f.notion.site/e43182b977fe432e87c06bf96746ce19
 - **blackb-relay** — 텔레그램 채널 새 글을 디스코드로 전달
 - **[chzzk-web-extension](https://chromewebstore.google.com/detail/chzzk-watcher/ipdmnoiimipnclfioflkkgcgmahabooe)** — 치지직 인기 방송 순위 변동을 실시간으로 알려 주는 크롬 확장 (+ 알림 서버)
 
-## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-        <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-        <img src="https://img.shields.io/badge/Ajax-00758F?style=flat-square&logo=ajax&logoColor=white">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-    </div>
-        <!-- Backend -->
-    <p><strong>Backend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <!--         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">  -->
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        <!--         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> -->
-    </div>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-    </div>
-            <!-- Communication -->
-    <p><strong>Communication</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-    </div>
-    <!-- Others -->
-    <p><strong>Others</strong></p>
-    <div>
-<!--         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> -->
-<!--         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"> -->
-<!--         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">  -->
-</div>
-</div>
+## 🔨 Tech Stack
+**Frontend**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**Backend**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Desktop**  
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+**Infra**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+
+**AI**  
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ## 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodchuck&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
