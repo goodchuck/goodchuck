@@ -5,8 +5,8 @@
 <p>제 이름은 양태현입니다. 프론트엔드에서 시작해 백엔드, 데스크탑 앱, 배포까지 혼자 만들고 운영하고 있어요.</p>
 
 ## 🚀 운영 중인 서비스
-- [Finisxh](https://finisxh.com) — 치지직 라이브 Top 20 을 매 정각 기록해 하루 흐름 · 실시간 채팅 건수 · 주간/월간 결산으로. 매일 밤 [일간 순위 레이스 쇼츠](https://www.youtube.com/channel/UC3nwVgfMt0IPJFZb05rFfgQ)
-- [오시레이더](https://vtuber.finisxh.com) — 치지직 버튜버 방송 · 팔로워 순위를 한곳에
+- [Finisxh](https://finisxh.com?utm_source=github&utm_medium=social&utm_content=profile) — 치지직 라이브 Top 20 을 매 정각 기록해 하루 흐름 · 실시간 채팅 건수 · 주간/월간 결산으로. 매일 밤 [일간 순위 레이스 쇼츠](https://www.youtube.com/channel/UC3nwVgfMt0IPJFZb05rFfgQ)
+- [오시레이더](https://vtuber.finisxh.com?utm_source=github&utm_medium=social&utm_content=profile) — 치지직 버튜버 방송 · 팔로워 순위를 한곳에
 - [블로그](https://www.yangtinomad.com) — 사이드 프로젝트를 만들며 부딪힌 문제와 풀어낸 방법
 - [chzzk-web-extension](https://chromewebstore.google.com/detail/chzzk-watcher/ipdmnoiimipnclfioflkkgcgmahabooe) — 치지직 인기 방송 순위 변동을 실시간으로 알려 주는 크롬 확장
 
@@ -43,8 +43,8 @@
 개인 모노레포에서 혼자 만들고 운영하는 프로젝트들입니다.
 
 **서비스**
-- **[Finisxh](https://finisxh.com)** — 치지직 매 정각 Top 20 기록 · 결산(Claude API 가 쓰는 결산 이야기) · Remotion 으로 매일 자동 렌더하는 순위 레이스 쇼츠 (웹 · API · 어드민 · 영상)
-- **[오시레이더](https://vtuber.finisxh.com)** — 치지직 버튜버 방송 · 팔로워 순위를 한곳에 (웹 · API · 관리 도구)
+- **[Finisxh](https://finisxh.com?utm_source=github&utm_medium=social&utm_content=profile)** — 치지직 매 정각 Top 20 기록 · 결산(Claude API 가 쓰는 결산 이야기) · Remotion 으로 매일 자동 렌더하는 순위 레이스 쇼츠 (웹 · API · 어드민 · 영상)
+- **[오시레이더](https://vtuber.finisxh.com?utm_source=github&utm_medium=social&utm_content=profile)** — 치지직 버튜버 방송 · 팔로워 순위를 한곳에 (웹 · API · 관리 도구)
 - **SubCulture** — 게임 캐릭터 카탈로그와 게임별 공식 소식 · 운영 활성도 랭킹
 - **VoiceMap** — 게임 성우 디렉토리 (성우 ↔ 캐릭터 캐스팅)
 - **Rulebook** — 규칙 문서 저장 + GitHub 양방향 연동 (변경 요청 → PR)
